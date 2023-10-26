@@ -1,0 +1,14 @@
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\bin\Debug\net7.0\DadosFutebol.exe
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\bin\Debug\net7.0\DadosFutebol.deps.json
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\bin\Debug\net7.0\DadosFutebol.runtimeconfig.json
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\bin\Debug\net7.0\DadosFutebol.dll
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\bin\Debug\net7.0\DadosFutebol.pdb
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\obj\Debug\net7.0\DadosFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\obj\Debug\net7.0\DadosFutebol.AssemblyInfoInputs.cache
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\obj\Debug\net7.0\DadosFutebol.AssemblyInfo.cs
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\obj\Debug\net7.0\DadosFutebol.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\obj\Debug\net7.0\DadosFutebol.dll
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\obj\Debug\net7.0\refint\DadosFutebol.dll
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\obj\Debug\net7.0\DadosFutebol.pdb
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\obj\Debug\net7.0\DadosFutebol.genruntimeconfig.cache
+C:\Users\nando\source\repos\DadosFutebol\DadosFutebol\obj\Debug\net7.0\ref\DadosFutebol.dll
